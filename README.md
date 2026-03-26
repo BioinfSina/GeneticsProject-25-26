@@ -3,7 +3,7 @@
 ## Overview
 This project investigates immune exclusion and ECM remodelling using Visium and Xenium datasets.
 
-## Contents:
+## Contents
 - 01.Visium_RCTD.R: segmentation and deconvolution of visium data
 - 02.Visium_Anlysis.R: clustering, communication analysis and function enrichment
 - 03.Xenium_RCTD.R: segmentation and deconvolution of xenium data
