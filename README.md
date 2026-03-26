@@ -20,8 +20,10 @@ This project investigates immune exclusion and ECM remodelling using Visium and 
 2. Run scripts in order
 
 ## Data source
-Public dataset from 10x genomics
+Public datasets from 10x Genomics
+
 Visium:Visium_HD_FF_Human_Breast_Cancer - Gene expression library of Fresh Frozen Human Breast Cancer (Visium HD) using the Human Whole Transcriptome Probe Set
+
 Xenium:FFPE Human Breast Cancer with 5K Human Pan Tissue and Pathways Panel plus 100 Custom Genes
 
 ## Notes:
